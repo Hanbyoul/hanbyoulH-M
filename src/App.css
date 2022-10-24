@@ -176,4 +176,9 @@
   .menu-on {
     left: 0;
   }
+  .nav-section {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2em;
+  }
 }
